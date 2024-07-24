@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# swisstronik-testnet
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+my address for testing: 0x0d9ED6b531A85566eb4ffd1094ecd7F658ebAf24
 
-Try running some of the following tasks:
+contract address: 0x74D049493B62e27c8679BeD8B02f5D974167dc3d
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+getMessage TxHash: 0x47b41aad77489387ec777a5d1242407e4ffa48f198d946c745a68a8cf2fad8f3
