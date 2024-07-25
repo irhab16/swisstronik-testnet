@@ -5,3 +5,9 @@ my address for testing: 0x0d9ED6b531A85566eb4ffd1094ecd7F658ebAf24
 contract address: 0x74D049493B62e27c8679BeD8B02f5D974167dc3d
 
 getMessage TxHash: 0x47b41aad77489387ec777a5d1242407e4ffa48f198d946c745a68a8cf2fad8f3
+
+ERC20 contract: 0xF27bc5fF10851F719De21E10A19e0d0116cE33EF
+
+mint txhash: https://explorer-cosmos.testnet.swisstronik.com/swisstronik/tx/8306085D7721161C1105DE900EA8F50FE45D4241D33FF9826872B252E30DB87A
+
+transfer txhash : https://explorer-cosmos.testnet.swisstronik.com/swisstronik/tx/89843EE3F3F2013C3EC47EDFD450D90C5F8D836045431C3B008AD98F64C86646
