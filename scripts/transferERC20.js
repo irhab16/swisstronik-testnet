@@ -27,7 +27,7 @@ async function main() {
   const [signer] = await hre.ethers.getSigners();
 
   // Create a contract instance
-  const replace_contractFactory = await hre.ethers.getContractFactory("TestToken");
+  const replace_contractFactory = await hre.ethers.getContractFactory("CypherTest");
   const contract = replace_contractFactory.attach(replace_contractAddress);
 
   // Send a shielded transaction to execute a transaction in the contract
