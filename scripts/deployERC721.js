@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 
 async function main() {
-  const contract = await hre.ethers.deployContract("CypherTest");
+  const contract = await hre.ethers.deployContract("CypherNFT");
 
   await contract.waitForDeployment();
 

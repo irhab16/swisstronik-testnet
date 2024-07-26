@@ -11,3 +11,7 @@ ERC20 contract: 0xF27bc5fF10851F719De21E10A19e0d0116cE33EF
 mint txhash: https://explorer-cosmos.testnet.swisstronik.com/swisstronik/tx/8306085D7721161C1105DE900EA8F50FE45D4241D33FF9826872B252E30DB87A
 
 transfer txhash : https://explorer-cosmos.testnet.swisstronik.com/swisstronik/tx/89843EE3F3F2013C3EC47EDFD450D90C5F8D836045431C3B008AD98F64C86646
+
+ERC721 contract: 0x33DCF456f4a4d12320f847AdEe332dDeeb07A58f
+
+mint txhash: https://explorer-cosmos.testnet.swisstronik.com/swisstronik/tx/1E12AA623A29C63595FBD65DEEA064DD4DF4574BDAB78F6AB6E78EF75196408B

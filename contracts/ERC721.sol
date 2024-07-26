@@ -3,15 +3,11 @@
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract Cypher is ERC721, Ownable {
-    constructor(address initialOwner)
-        ERC721("Cypher", "CYP")
-        Ownable(initialOwner)
-    {}
+contract CypherNFT is ERC721 {
+    constructor()ERC721("CypherNFT","CYP"){}
 
-    function safeMint(address to, uint256 tokenId) public onlyOwner {
-        _safeMint(to, tokenId);
+    function mint1tokens() public {
+        _mint(msg.sender,1*10**18);
     }
 }
